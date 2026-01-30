@@ -9,7 +9,7 @@ def temp_conversion(celsius):
     # Calculate the Fahrenheit equivalent.
     fahrenheit = 0.0
     ######################
-    # WRITE YOUR CODE HERE
+    faherenheit = (9.0 / 5.0) * celsius + 32
     ######################    
 
 
