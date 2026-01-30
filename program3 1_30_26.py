@@ -1,3 +1,7 @@
+# Abrielle Nyei
+# total purchase
+# 1/30/26
+
 def calculate_total_purchase():
     # A customer in a store is purchasing five items.
     # Write a program that asks for each item,
@@ -28,4 +32,5 @@ def calculate_total_purchase():
     print("Total: $", format(total, ".2f"), sep="")
 
 # Line which calls the above function.
+
 calculate_total_purchase()
